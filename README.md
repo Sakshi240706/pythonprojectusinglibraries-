@@ -34,7 +34,6 @@ This project performs a detailed exploratory data analysis (EDA) on a landslide 
 - numpy
 ---
 ## 🗂 Dataset
-
 The dataset used is expected to be a CSV file with a minimum column named:
 - `event_date` (used to extract month, hour, day)
 
